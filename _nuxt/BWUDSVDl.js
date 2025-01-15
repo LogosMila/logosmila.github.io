@@ -1,0 +1,1 @@
+import{_ as t,N as e}from"./DrPIWaY5.js";const o=e({created(){const a=(navigator.language||navigator.userLanguage).startsWith("ru")?"ru":"en";this.$router.push(`/${a}/about`)}},"$PslAyef5YX");function r(n,s,a,u,c,i){return null}const l=t(o,[["render",r]]);export{l as default};
